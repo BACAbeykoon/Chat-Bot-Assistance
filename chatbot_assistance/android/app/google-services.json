@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18406088223",
+    "project_id": "chat-bot-assistance",
+    "storage_bucket": "chat-bot-assistance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18406088223:android:9d92f4dc6b399b81503f2a",
+        "android_client_info": {
+          "package_name": "com.example.chatbot_assistance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSl5e3VCbP9K9NIWVYtuvmYUZuHfw3k7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
