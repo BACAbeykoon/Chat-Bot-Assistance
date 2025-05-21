@@ -67,7 +67,7 @@ flutter:
   assets:
     - assets/bot_icon.png
     - assets/user.png
-    - assets/dialog_flow_auth.json
+  #  - assets/dialog_flow_auth.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

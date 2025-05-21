@@ -95,7 +95,7 @@ class MessageBubble extends StatelessWidget {
               child: Image.asset('assets/user.png'),
             ),
         ],
-      ),
-    );
-  }
+      ),
+    );
+  }
 }
